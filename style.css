@@ -1,9 +1,8 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     background-color: #f0f8ff;
     display: flex;
     justify-content: center;
-    align-items: center;
     height: 100vh;
     margin: 0;
 }
@@ -11,7 +10,8 @@ h1 {
     text-align: center;
 }
 
-p:detalhes {
-    color: blue;
-    font-size: 1.5px;
+.detalhes {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(0, 0, 0);
 }
