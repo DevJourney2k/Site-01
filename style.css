@@ -1,5 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
 h1 {
-    font-size: 1px;
-    color: aqua;
-    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p:detalhes {
+    color: blue;
+    font-size: 1.5px;
 }
