@@ -1,6 +1,6 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    background-color: #f0f8ff;
+    background-color: linear gray;
     display: flex;
     justify-content: center;
     height: 100vh;
@@ -14,4 +14,10 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
     color: rgb(0, 0, 0);
+}
+
+footer {
+    text-align: end;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
 }
